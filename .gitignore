@@ -1,0 +1,6 @@
+.temp
+.cache
+node_modules
+package-lock.lock
+*.psd
+dist
