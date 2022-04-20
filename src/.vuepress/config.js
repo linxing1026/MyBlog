@@ -19,7 +19,7 @@ const navbar = [
   },
 ]
 module.exports = {
-  base: "/MyBlog/",
+  base: "/myblog/",
   title: 'linxing blog',
   description: 'there is no end to learning',
   lang: 'zh-CN',
