@@ -2,7 +2,22 @@ const navbar = [
   {
     text: '前端',
     children: [
-      '/javascript/',
+      {
+        text: 'CSS总结',
+        link: '/css/CSS总结.md'
+      },
+      {
+        text: '前端兼容性总结',
+        link: '/javascript/前端兼容性总结.md'
+      },
+      {
+        text: '前端面试总结',
+        link: '/javascript/面试总结.md'
+      },
+      {
+        text: 'typescript学习笔记',
+        link: '/typescript/ts.md'
+      }
     ]
   },
   {
