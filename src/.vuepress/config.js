@@ -17,6 +17,10 @@ const navbar = [
       {
         text: 'typescript学习笔记',
         link: '/typescript/ts.md'
+      },
+      {
+        text: 'vue3快速上手',
+        link: '/前端框架/vue3.md'
       }
     ]
   },
