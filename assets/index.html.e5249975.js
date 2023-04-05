@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"",lang:"zh-CN",frontmatter:{home:!0,heroImage:"/logo.png",heroText:"linxing blog",tagline:"There is no end to learning",footer:null},excerpt:"",headers:[],git:{updatedTime:1650436389e3,contributors:[{name:"linxing1026",email:"15229293964@163.com",commits:1}]},filePathRelative:"index.md"};export{e as data};
